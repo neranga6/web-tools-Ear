@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-tool-ear.iml" filepath="$PROJECT_DIR$/.idea/modules/web-tool-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-tool-ear_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web-tool-ear_main.iml" group="web-tool-ear" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-tool-ear_test.iml" filepath="$PROJECT_DIR$/.idea/modules/web-tool-ear_test.iml" group="web-tool-ear" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-tool-web/web-tool-web.iml" filepath="$PROJECT_DIR$/.idea/modules/web-tool-web/web-tool-web.iml" group="web-tool-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-tool-web/web-tool-web_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/web-tool-web/web-tool-web_integrationTest.iml" group="web-tool-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-tool-web/web-tool-web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web-tool-web/web-tool-web_main.iml" group="web-tool-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-tool-web/web-tool-web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/web-tool-web/web-tool-web_test.iml" group="web-tool-web" />
+    </modules>
+  </component>
+</project>
